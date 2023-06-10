@@ -1,0 +1,8 @@
+{
+  "package": {
+    "dependencies": {
+      "tailwindcss": "^3.3.2",
+      "@heroicons/react": "^2.0.18"
+    }
+  }
+}
